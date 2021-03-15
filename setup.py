@@ -7,7 +7,7 @@ with open("requirements.txt", "r") as fh:
 
 setuptools.setup(
     name="spam-bot",
-    version="0.0.4",
+    version="0.0.1",
     author="Hirusha Pramuditha",
     author_email="hirushapramuditha26@gmail.com",
     description="Spam anything!",
