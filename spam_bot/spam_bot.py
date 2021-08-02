@@ -37,7 +37,6 @@ class ReadFile:
 
         for line in f:
             pyautogui.typewrite(line)
-            pyautogui.press("enter")
 
 
 def spam(msg, count):
